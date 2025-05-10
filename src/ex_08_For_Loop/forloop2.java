@@ -1,4 +1,4 @@
-package forloops;
+package ex_08_For_Loop;
 
 public class forloop2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package forloops;
+package ex_08_For_Loop;
 
 public class factorialinput {
     public static void main(String[] args) {
