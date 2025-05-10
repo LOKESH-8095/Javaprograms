@@ -1,4 +1,4 @@
-package switchstatements;
+package ex_07_Switch_Case;
 
 public class Switch001 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package switchstatements;
+package ex_07_Switch_Case;
 
 public class Comment002 {
     public static void main(String[] args) {
